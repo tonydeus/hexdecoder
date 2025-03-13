@@ -196,3 +196,4 @@ def create_gui():
 if __name__ == "__main__":
     root, entry, result_text = create_gui()
     root.mainloop()
+    
